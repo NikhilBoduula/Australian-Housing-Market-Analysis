@@ -155,17 +155,13 @@ Forecasting indicates short-term stability in house prices
 
 📁 Project Structure
 Australian-Housing-Market-Analysis/
-│
-├── data/
-│   └── Australia_Macro_Data_Monthly.csv
-│
-├── notebooks/
-│   └── Australian_Housing_Analysis.ipynb
-│
-├── powerbi/
-│   └── Australian_Housing_Market_Dashboard.pbix
-│
-├── README.md
+data/
+  Australia_Macro_Data_Monthly.csv
+notebooks/
+  Australian_Housing_Analysis.ipynb
+powerbi/
+  Australian_Housing_Market_Dashboard.pbix
+README.md
 
 🚀 How to Run the Project
 
